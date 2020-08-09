@@ -11,18 +11,18 @@ const store = new Vuex.Store({
     taskEditData: {},
     form: {
         client:{
-          name: 'Charlie Patel',
-          email: 'charlie@99robots.com',
-          address: 'New Jersey, USA',
-          phone: '555-555-5555'
+          name: '',
+          email: '',
+          address: '',
+          phone: ''
         },
         user:{
-          name: 'Abdulla Malik',
-          email: 'abdulla.coder@gmail.com',
-          address: 'Sylhet, Bangladesh',
-          phone: '01739843500'
+          name: '',
+          email: '',
+          address: '',
+          phone: ''
         },
-        terms: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati nam incidunt doloremque laudantium cupiditate blanditiis! Natus expedita rerum dolor distinctio quaerat architecto? Perferendis iusto provident esse laudantium itaque corporis atque? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati nam incidunt doloremque laudantium cupiditate blanditiis! Natus expedita rerum dolor distinctio quaerat architecto? Perferendis iusto provident esse laudantium itaque corporis atque? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati nam incidunt doloremque laudantium cupiditate blanditiis! Natus expedita rerum dolor distinctio quaerat architecto? Perferendis iusto provident esse laudantium itaque corporis atque? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati nam incidunt doloremque laudantium cupiditate blanditiis! Natus expedita rerum dolor distinctio quaerat architecto? Perferendis iusto provident esse laudantium itaque corporis atque? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati nam incidunt doloremque laudantium cupiditate blanditiis! Natus expedita rerum dolor distinctio quaerat architecto? Perferendis iusto provident esse laudantium itaque corporis atque?',
+        terms: '',
         tasks: [
           {
             name: 'Example Task', 
